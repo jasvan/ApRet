@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\xampp\htdocs\A\SPG\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3237445534.index
+1815770179.index
+814737678.index
+911869198.index
+1874821078.index
+1280285956.index
